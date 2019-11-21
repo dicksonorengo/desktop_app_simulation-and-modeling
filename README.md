@@ -62,6 +62,11 @@ website: www.techadvisor.co.ke
 </br ></br ></br ></br ></br ></br >
 # 
 
+2. MINI-HYDROELECTRIC POWER PLANT PROJECT
+# 
+[MINI-HYDROELECTRIC POWER PLANT PROJECT](https://m-hep.monagak.co.ke)
+</br ></br ></br ></br ></br ></br >
+
 
 
 

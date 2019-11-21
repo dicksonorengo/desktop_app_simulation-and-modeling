@@ -16,6 +16,10 @@ Modeling and simulation
 This repository contains source files for the work-in-progress 
 
 The documentation are located in a separate repository  
+
+
+To make things easier, we have published documentation in the /documentation folder of this repository.
+
 </br ></br ></br ></br ></br ></br ></br ></br ></br ></br ></br >
 
 

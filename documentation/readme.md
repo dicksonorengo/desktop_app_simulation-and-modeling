@@ -3,3 +3,4 @@ There is also a [demo version](#) which is built automatically every night and c
 
 operating system!
 Windows 7, 8 and 10
+

@@ -55,9 +55,11 @@ Created by [monagak team](http://MONAGAK.co.ke) with much help from the communit
 [E.U FET RESOURCES APP](https://github.com/dicksonorengo/E.U-FET-Resources/)
 </br ></br ></br ></br ></br ></br >
 # 
-A personal note: You all must keep up with programming. It's sometimes difficult and sometimes easy but fun afterall, you can create your own world with programming and that's the beauty of it. So, all the best for your next creation.
+**A personal note:** `You all must keep up with programming. It's sometimes difficult and sometimes easy but fun afterall, you can create your own world with programming and that's the beauty of it. So, all the best for your next creation.`
 
-This project is initially developed by Orengo Dickson.
+This project is initially developed by **[Orengo Dickson](hhttps://github.com/dicksonorengo)**.
+
+.
 Develop Email*  orengo@techadvisor.co.ke
 website: www.techadvisor.co.ke
 

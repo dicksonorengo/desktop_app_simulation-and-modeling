@@ -76,7 +76,8 @@ website: www.techadvisor.co.ke
 </br >
 
 
-2. BURUDIKA APP
+3. BURUDIKA APP
+# 
 [BURUDIKA APP](https://play.google.com/store/apps/details?id=com.sunwa.burudika)
 
 

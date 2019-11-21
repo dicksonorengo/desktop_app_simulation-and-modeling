@@ -56,13 +56,13 @@ website: www.techadvisor.co.ke
 ~monagak team
 
 # Latest project
-1. EGERTON UNIVERSITY FACULTY OF ENGINEERING RESOURCES APP 
-# 
+1. **EGERTON UNIVERSITY FACULTY OF ENGINEERING RESOURCES APP** 
+ </br >
 [E.U FET RESOURCES APP](https://github.com/dicksonorengo/E.U-FET-Resources/)
-</br >
+
 # 
-2. MINI-HYDROELECTRIC POWER PLANT PROJECT
-# 
+2. **MINI-HYDROELECTRIC POWER PLANT PROJECT**
+</br > 
 
 
 [Document](https://github.com/dicksonorengo/E.U-FET-Resources/blob/master/projects/M-HEP%20Project%20HandBook.pdf)
@@ -75,9 +75,9 @@ website: www.techadvisor.co.ke
 
 </br >
 
-
+#
 3. BURUDIKA APP
-# 
+</br >
 [BURUDIKA APP](https://play.google.com/store/apps/details?id=com.sunwa.burudika)
 
 

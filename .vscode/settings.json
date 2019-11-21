@@ -1,1 +1,7 @@
+{
+    "files.associations": {
+        "random": "vb"
+    },
 
+    "git.ignoreLimitWarning": true
+}

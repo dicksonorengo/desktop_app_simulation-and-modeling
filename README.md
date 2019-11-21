@@ -48,7 +48,8 @@ All sensitive data is encrypted with the passcode that is entered during startup
 Created by [monagak team](http://MONAGAK.co.ke) with much help from the community. Contributed content licensed under [cc-wiki](https://creativecommons.org/licenses/by-sa/3.0/) with [attribution required](http://blog.stackoverflow.com/2009/06/attribution-required/). You are free to remix and reuse, as long as you attribute and use a similar license.
 
 # Latest project
-
+E.U FET RESOURCES APP 
+[E.U FET RESOURCES APP](https://github.com/dicksonorengo/E.U-FET-Resources/)
 
 Develop Email*  orengo@techadvisor.co.ke
 website: www.techadvisor.co.ke

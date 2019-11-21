@@ -23,11 +23,15 @@ The documentation are located in a separate repository
 
 To make things easier, we have published documentation in the /documentation folder of this repository.
 
-</br ></br ></br ></br ></br ></br ></br ></br ></br ></br ></br >
+</br ></br ></br >
+
+# Security
+
+All sensitive data is encrypted with the passcode that is entered during startup. You can choose 
 
 
 
-
+</br ></br ></br ></br ></br ></br ></br ></br >
 
 
 

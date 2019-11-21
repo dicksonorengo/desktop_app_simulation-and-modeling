@@ -76,7 +76,8 @@ website: www.techadvisor.co.ke
 </br >
 
 
-[MINI-HYDROELECTRIC POWER PLANT PROJECT](https://m-hep.monagak.co.ke)
+2. BURUDIKA APP
+[BURUDIKA APP](https://play.google.com/store/apps/details?id=com.sunwa.burudika)
 
 
 

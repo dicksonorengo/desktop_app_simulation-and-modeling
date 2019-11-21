@@ -58,6 +58,11 @@ website: www.techadvisor.co.ke
 # Latest project
 1. **EGERTON UNIVERSITY FACULTY OF ENGINEERING RESOURCES APP** 
  </br >
+ 
+ 
+ 
+ 
+ 
 [E.U FET RESOURCES APP](https://github.com/dicksonorengo/E.U-FET-Resources/)
 
 

@@ -27,8 +27,7 @@ To make things easier, we have published documentation in the /documentation fol
 
 # Security
 
-All sensitive data is encrypted with the passcode that is entered during startup. You can choose 
-
+All sensitive data is encrypted with the passcode that is entered during startup. 
 
 
 </br ></br ></br ></br ></br ></br ></br ></br >

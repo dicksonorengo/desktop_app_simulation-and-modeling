@@ -63,10 +63,15 @@ website: www.techadvisor.co.ke
 # 
 2. MINI-HYDROELECTRIC POWER PLANT PROJECT
 # 
-[MINI-HYDROELECTRIC POWER PLANT PROJECT](https://m-hep.monagak.co.ke)
 
 
 [Document](https://github.com/dicksonorengo/E.U-FET-Resources/blob/master/projects/M-HEP%20Project%20HandBook.pdf)
+
+
+[MINI-HYDROELECTRIC POWER PLANT PROJECT](https://m-hep.monagak.co.ke)
+
+
+[MINI-HYDROELECTRIC POWER PLANT PROJECT](https://m-hep.monagak.co.ke)
 </br >
 
 

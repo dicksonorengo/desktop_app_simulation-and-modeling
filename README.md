@@ -49,9 +49,10 @@ Created by [monagak team](http://MONAGAK.co.ke) with much help from the communit
 
 # Latest project
 E.U FET RESOURCES APP
-</br ></br ></br >
+</br ></br >
 [E.U FET RESOURCES APP](https://github.com/dicksonorengo/E.U-FET-Resources/)
-
+</br ></br ></br ></br ></br ></br >
+# 
 Develop Email*  orengo@techadvisor.co.ke
 website: www.techadvisor.co.ke
 
